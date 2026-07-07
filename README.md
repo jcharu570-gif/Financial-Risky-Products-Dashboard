@@ -95,7 +95,7 @@ The dataset includes:
 
 ##  Dashboard Preview
 
-<img
+<img https://github.com/jcharu570-gif/Financial-Risky-Products-Dashboard/blob/main/Screenshot%202026-07-07%20200359.png
 
 ##  Skills Demonstrated
 
